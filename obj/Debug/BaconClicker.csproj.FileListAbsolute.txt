@@ -8,3 +8,13 @@ C:\Users\etien\Documents\Bacon clicker\Bacon_Clicker\BaconClicker\obj\Debug\Baco
 C:\Users\etien\Documents\Bacon clicker\Bacon_Clicker\BaconClicker\obj\Debug\BaconClicker.csproj.CoreCompileInputs.cache
 C:\Users\etien\Documents\Bacon clicker\Bacon_Clicker\BaconClicker\obj\Debug\BaconClicker.exe
 C:\Users\etien\Documents\Bacon clicker\Bacon_Clicker\BaconClicker\obj\Debug\BaconClicker.pdb
+C:\Users\etien\Desktop\BaconClicker\bin\Debug\BaconClicker.exe.config
+C:\Users\etien\Desktop\BaconClicker\bin\Debug\BaconClicker.exe
+C:\Users\etien\Desktop\BaconClicker\bin\Debug\BaconClicker.pdb
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.csprojResolveAssemblyReference.cache
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.Form1.resources
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.Properties.Resources.resources
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.csproj.GenerateResource.Cache
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.csproj.CoreCompileInputs.cache
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.exe
+C:\Users\etien\Desktop\BaconClicker\obj\Debug\BaconClicker.pdb
