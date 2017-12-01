@@ -2,6 +2,12 @@
 
 Reprise de cookie clicker mais avec du bacon
 
+### Prerequisites
+
+.NET 4.5 
+
+lien : https://www.microsoft.com/fr-fr/download/details.aspx?id=30653
+
 ## Getting Started
 
 Un éxecutable est disponible dans /bin/Debug/
@@ -30,12 +36,6 @@ Plus de bonus : ajout d'un bonus qui simule un clic intensif pendant un certain 
 Equilibrage des bonus
 Meilleur design ?
 Code plus robuste
-
-### Prerequisites
-
-.NET 4.5 
-
-lien : https://www.microsoft.com/fr-fr/download/details.aspx?id=30653
 
 ## Authors
 
